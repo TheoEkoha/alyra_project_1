@@ -6,4 +6,4 @@ Ceci est le repo avec le fichier Voting.sol qui est le smart contract du projet 
 
 Théo Olivieri
 
-### Bon Lecture !
+### Bonne Lecture !
